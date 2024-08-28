@@ -29,5 +29,11 @@ sub main
 	}
 	print $sum;
 	return 0;
+https://docs.aws.amazon.com/transfer/latest/APIReference/API_CreateUser.html
+_type": "String",
+    "Message": "String", <!-- Message is lowercase in some instances -->
+    "Resource": String,
+    "ResourceType": String
+    "RetryAfterSeconds": String
 }
 __END__
